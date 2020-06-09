@@ -1,0 +1,13 @@
+C:\Users\Jack Cruz\Desktop\Morse\bin\Debug\netcoreapp3.1\Morse.exe
+C:\Users\Jack Cruz\Desktop\Morse\bin\Debug\netcoreapp3.1\Morse.deps.json
+C:\Users\Jack Cruz\Desktop\Morse\bin\Debug\netcoreapp3.1\Morse.runtimeconfig.json
+C:\Users\Jack Cruz\Desktop\Morse\bin\Debug\netcoreapp3.1\Morse.runtimeconfig.dev.json
+C:\Users\Jack Cruz\Desktop\Morse\bin\Debug\netcoreapp3.1\Morse.dll
+C:\Users\Jack Cruz\Desktop\Morse\bin\Debug\netcoreapp3.1\Morse.pdb
+C:\Users\Jack Cruz\Desktop\Morse\obj\Debug\netcoreapp3.1\Morse.csprojAssemblyReference.cache
+C:\Users\Jack Cruz\Desktop\Morse\obj\Debug\netcoreapp3.1\Morse.AssemblyInfoInputs.cache
+C:\Users\Jack Cruz\Desktop\Morse\obj\Debug\netcoreapp3.1\Morse.AssemblyInfo.cs
+C:\Users\Jack Cruz\Desktop\Morse\obj\Debug\netcoreapp3.1\Morse.csproj.CoreCompileInputs.cache
+C:\Users\Jack Cruz\Desktop\Morse\obj\Debug\netcoreapp3.1\Morse.dll
+C:\Users\Jack Cruz\Desktop\Morse\obj\Debug\netcoreapp3.1\Morse.pdb
+C:\Users\Jack Cruz\Desktop\Morse\obj\Debug\netcoreapp3.1\Morse.genruntimeconfig.cache
